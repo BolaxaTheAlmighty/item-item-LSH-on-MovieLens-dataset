@@ -8,7 +8,7 @@ This repository includes a ipynb file and a pdf presentation on the subject. The
 The ipynb file is pretty well commented but any question feel free to reach out.
 For high ammounts of samples the program takes a while to run. 3M samples took me about 12h to run.
 
-Dataset website bellow, the one used was the reccommended onw for education and development full size.
+Dataset website below as i couldn't commit it, the one used was the reccommended one for education and development full size.
 https://grouplens.org/datasets/movielens/
 
 Hope you get nice results and learn something.
